@@ -17,23 +17,22 @@ https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 
 * Progressive Web Apps (PWA) ✔️
 
-* Ionic
-* flutter
-* NativeScript
-* https://github.com/apache/incubator-weex
+* [Ionic](https://ionicframework.com/)
+* [flutter](https://flutter.dev/)
+* [NativeScript](https://www.nativescript.org/)
+* [Weex](https://weex.apache.org/)
 
-* phonegap
-* Apache Cordova
-* Onsen UI
-* Framework7
-* Quasar
-* Xamarin
-* CODENAME ONE
-* Mobile Angular UI
-* jQuery Mobile
-* Appcelerator Titanium
-* Sencha Ext JS
+* [PhoneGap](https://phonegap.com/)
+* [CORDOVA](https://cordova.apache.org/)
+* [Onsen UI](https://onsen.io/)
+* [Framework7](https://framework7.io/)
+* [Quasar](https://quasar.dev/)
+* [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+* [CODENAME ONE](https://www.codenameone.com/)
+* [Mobile Angular UI](http://mobileangularui.com/)
+* [jQuery Mobile](https://jquerymobile.com/)
+* [Appcelerator Titanium](https://www.appcelerator.com/)
+* [Sencha Ext JS](https://www.sencha.com/)
 
 ## TO DO
-* Formatting
 * Categorize
