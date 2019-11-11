@@ -33,6 +33,10 @@ https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 * [jQuery Mobile](https://jquerymobile.com/)
 * [Appcelerator Titanium](https://www.appcelerator.com/)
 * [Sencha Ext JS](https://www.sencha.com/)
+* [Tabris.js](https://tabris.com/)
+* [Corona](https://coronalabs.com/)
+* [Trigger.io](https://trigger.io/)
+* [METEOR](https://www.meteor.com/)
 
 ## TO DO
 * Categorize
