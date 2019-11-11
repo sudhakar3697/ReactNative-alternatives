@@ -13,7 +13,9 @@ https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 
 ### Alternatives
 
-* PWA
+✔️ - Preferred
+
+* Progressive Web Apps (PWA) ✔️
 
 * Ionic
 * flutter
