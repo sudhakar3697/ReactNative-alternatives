@@ -1,11 +1,12 @@
 # ReactNative-alternatives
 List of alternatives to React Native (Cross-platform mobile app development)
 
+## Native vs Web vs Hybrid
 https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 
 
 
-# [React Native](https://facebook.github.io/react-native)
+## [React Native](https://facebook.github.io/react-native)
 
 * PWA
 
@@ -26,6 +27,6 @@ https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 * Appcelerator Titanium
 * Sencha Ext JS
 
-# TO DO
+## TO DO
 * Formatting
 * Categorize
