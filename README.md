@@ -7,6 +7,11 @@ https://ionicframework.com/resources/articles/what-is-hybrid-app-development
 
 
 ## [React Native](https://facebook.github.io/react-native)
+* Create native apps for Android and iOS using React
+* React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+* Written in JavaScript—rendered with native code.
+
+### Alternatives
 
 * PWA
 
